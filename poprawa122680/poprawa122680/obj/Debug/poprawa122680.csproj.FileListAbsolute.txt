@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\bin\Debug\poprawa122680.exe.config
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\obj\Debug\poprawa122680.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\bin\Debug\poprawa122680.exe
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\bin\Debug\poprawa122680.pdb
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\obj\Debug\poprawa122680.exe
+C:\Users\local\Desktop\Pawel_Gnyszka\poprawa122680\poprawa122680\obj\Debug\poprawa122680.pdb
